@@ -47,17 +47,3 @@ Equivalent temperature in Celsius: 36.6667°C
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
----
-
-### How to Add the README
-1. Create a new file named `README.md` in your project folder (`C:\Compile Time`).
-2. Copy and paste the above content into the file.
-3. Stage, commit, and push it to your GitHub repository.
-
-```bash
-git add README.md
-git commit -m "Added README for FahrenheitToCelsius project"
-git push origin main
-```
